@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lokesh Pulivarthi - .NET FULL STACK DEVELOPER
-- 👀 I’m interested in development, Programming and net surfing.
+- 👀 I’m interested in developing, Programming and net surfing.
 - 🌱 I’m currently learning DSA and solving problems
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me - lokesh.pulivarthi@hotmail.com
